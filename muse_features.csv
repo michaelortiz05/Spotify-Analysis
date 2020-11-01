@@ -1,0 +1,158 @@
+,Song Name,Album Name,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration (MS),Time Signature
+0,Algorithm,Simulation Theory (Super Deluxe),0.522,0.923,2,-4.56,1,0.0539,0.0125,0.017,0.0854,0.595,170.057,245960,4
+1,The Dark Side,Simulation Theory (Super Deluxe),0.484,0.927,2,-3.759,1,0.0425,0.000884,3.96e-06,0.223,0.389,99.979,227213,4
+2,Pressure,Simulation Theory (Super Deluxe),0.622,0.842,11,-3.678,0,0.0609,0.00342,0.00014,0.0575,0.724,136.041,235600,4
+3,Propaganda,Simulation Theory (Super Deluxe),0.754,0.675,2,-4.616,1,0.0939,0.0251,0.00419,0.513,0.432,95.024,180507,4
+4,Break It to Me,Simulation Theory (Super Deluxe),0.667,0.967,1,-0.759,0,0.0939,0.157,0.258,0.0596,0.614,90.015,217560,4
+5,Something Human,Simulation Theory (Super Deluxe),0.59,0.903,9,-4.841,1,0.0542,0.0536,0.00289,0.12,0.545,105.018,226787,4
+6,Thought Contagion,Simulation Theory (Super Deluxe),0.48,0.76,5,-3.663,1,0.0402,0.00107,2.37e-05,0.0809,0.378,139.985,206107,4
+7,Get up and Fight,Simulation Theory (Super Deluxe),0.646,0.846,4,-5.654,1,0.0356,0.0043,1.4e-05,0.105,0.87,135.014,244720,4
+8,Blockades,Simulation Theory (Super Deluxe),0.498,0.941,7,-4.454,0,0.0878,0.000644,0.0236,0.34,0.236,127.044,230680,4
+9,Dig Down,Simulation Theory (Super Deluxe),0.428,0.429,0,-6.06,1,0.049,0.0879,0.00041,0.168,0.182,127.173,228147,4
+10,The Void,Simulation Theory (Super Deluxe),0.571,0.551,7,-8.736,0,0.0268,0.431,0.0207,0.0852,0.165,134.819,284853,4
+11,Algorithm (Alternate Reality Version),Simulation Theory (Super Deluxe),0.441,0.747,8,-9.034,1,0.0585,0.0139,0.0224,0.111,0.0517,84.96,212360,4
+12,The Dark Side (Alternate Reality Version),Simulation Theory (Super Deluxe),0.278,0.364,0,-11.915,0,0.031,0.924,0.00423,0.127,0.0934,95.149,234173,4
+13,Pressure (feat. UCLA Bruin Marching Band),Simulation Theory (Super Deluxe),0.631,0.947,4,-2.656,0,0.0551,0.496,4.63e-05,0.576,0.807,136.016,244027,4
+14,Propaganda (Acoustic),Simulation Theory (Super Deluxe),0.769,0.664,2,-4.841,1,0.209,0.107,0.0312,0.309,0.706,95.009,178627,4
+15,Break It to Me (Sam de Jong Remix),Simulation Theory (Super Deluxe),0.569,0.81,10,-4.88,0,0.0803,0.0412,2.11e-06,0.105,0.153,179.9,188200,4
+16,Something Human (Acoustic),Simulation Theory (Super Deluxe),0.609,0.832,9,-5.284,1,0.039,0.425,4.44e-05,0.17,0.654,105.023,226333,4
+17,Thought Contagion (Live),Simulation Theory (Super Deluxe),0.418,0.819,5,-5.696,1,0.0437,0.000693,0.0228,0.91,0.28,140.087,248027,4
+18,Dig Down (Acoustic Gospel Version),Simulation Theory (Super Deluxe),0.522,0.475,0,-7.249,1,0.0291,0.817,3.29e-06,0.172,0.202,127.059,237187,4
+19,The Void (Acoustic),Simulation Theory (Super Deluxe),0.25,0.356,7,-10.939,0,0.0308,0.916,0.00216,0.0927,0.124,144.265,274427,4
+20,The Dark Side (Alternate Reality Version) [Instrumental] - Alternate Reality Version; Instrumental,Simulation Theory (Super Deluxe),0.153,0.405,0,-12.262,0,0.0361,0.942,0.864,0.105,0.0596,93.338,173040,4
+21,Dead Inside,Drones,0.65,0.758,8,-5.021,1,0.0507,0.000259,0.000492,0.276,0.603,100.005,262947,4
+22,(Drill Sergeant),Drones,0.668,0.655,7,-10.155,0,0.472,0.595,4.79e-05,0.221,0.36,97.57,21148,4
+23,Psycho,Drones,0.555,0.883,2,-3.426,1,0.0341,0.00114,0.041,0.868,0.507,125.02,316718,4
+24,Mercy,Drones,0.482,0.926,7,-4.789,1,0.0549,0.00952,0.0,0.311,0.371,130.007,231973,4
+25,Reapers,Drones,0.421,0.892,7,-4.235,1,0.0564,3.33e-05,0.00331,0.141,0.398,95.866,359520,4
+26,The Handler,Drones,0.47,0.925,2,-4.181,1,0.047,0.000143,0.0417,0.449,0.279,130.009,273760,4
+27,(JFK),Drones,0.461,0.433,4,-21.59,0,0.321,0.709,0.0,0.759,0.421,100.418,54621,3
+28,Defector,Drones,0.419,0.878,2,-3.917,1,0.0396,0.000114,0.00104,0.713,0.397,76.996,273005,4
+29,Revolt,Drones,0.228,0.938,7,-4.193,1,0.0818,0.00342,0.0,0.35,0.2,124.667,245711,5
+30,Aftermath,Drones,0.295,0.495,9,-7.646,1,0.0316,0.215,0.0112,0.122,0.115,72.09,347997,4
+31,Drones,Drones,0.149,0.229,7,-14.308,1,0.0355,0.944,0.0588,0.115,0.0662,104.668,169818,5
+32,Supremacy - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.249,0.881,9,-7.104,0,0.0469,0.000743,0.115,0.974,0.256,158.607,316413,4
+33,Panic Station - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.552,0.929,0,-5.297,1,0.0537,0.0085,7.59e-05,0.986,0.532,105.031,192373,4
+34,Resistance - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.456,0.941,9,-6.627,0,0.0638,0.0039,0.0463,0.663,0.162,135.051,332227,4
+35,Hysteria - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.282,0.902,11,-6.624,0,0.067,6.5e-06,0.592,0.993,0.151,93.03,306147,4
+36,Animals - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.449,0.906,11,-6.797,1,0.05,0.0163,0.215,0.78,0.319,170.019,261160,5
+37,Knights of Cydonia - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.272,0.935,9,-6.215,1,0.09,0.000317,0.12,0.981,0.131,138.661,499373,4
+38,Explorers - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.191,0.552,0,-8.795,1,0.0296,0.193,0.000989,0.758,0.0876,92.08,354267,4
+39,Follow Me - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.294,0.848,3,-5.907,1,0.0517,0.00507,0.00047,0.976,0.0648,134.974,232147,4
+40,Madness - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.474,0.605,9,-8.343,1,0.0385,0.0839,0.0957,0.752,0.205,91.987,277827,4
+41,Guiding Light - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.476,0.899,0,-4.833,1,0.0666,0.0298,8.98e-05,0.94,0.228,147.938,258440,4
+42,Supermassive Black Hole - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.478,0.975,4,-5.128,0,0.0602,0.0249,0.233,0.991,0.22,120.033,245213,4
+43,Uprising - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.517,0.931,0,-5.393,1,0.0527,2.05e-05,0.0692,0.929,0.219,128.032,335000,4
+44,Starlight - Live at Rome Olympic Stadium,Live at Rome Olympic Stadium,0.493,0.959,10,-5.39,1,0.0553,0.000116,0.0223,0.974,0.174,121.597,267853,4
+45,Supremacy,The 2nd Law,0.256,0.679,9,-4.495,0,0.0387,0.00451,0.0409,0.172,0.325,158.718,295373,4
+46,Madness,The 2nd Law,0.502,0.417,10,-7.665,1,0.0718,0.127,0.00419,0.106,0.218,180.301,281040,4
+47,Panic Station,The 2nd Law,0.671,0.766,2,-3.1,1,0.0378,0.00224,0.000154,0.159,0.726,104.99,184200,4
+48,Prelude,The 2nd Law,0.0807,0.382,10,-11.073,1,0.0379,0.668,0.945,0.334,0.0999,82.178,57920,1
+49,Survival,The 2nd Law,0.557,0.826,10,-4.545,0,0.0394,0.000692,0.188,0.0914,0.632,164.01,257467,4
+50,Follow Me,The 2nd Law,0.279,0.817,3,-5.801,1,0.0586,0.00126,2.01e-05,0.141,0.0842,135.258,230920,4
+51,Animals,The 2nd Law,0.446,0.804,3,-6.906,0,0.0307,0.00571,0.796,0.696,0.615,169.987,262813,5
+52,Explorers,The 2nd Law,0.186,0.525,0,-7.587,1,0.0292,0.241,5.29e-05,0.108,0.0523,89.789,346507,4
+53,Big Freeze,The 2nd Law,0.565,0.915,8,-4.749,1,0.0466,0.0109,0.000939,0.0954,0.329,116.028,279907,4
+54,Save Me,The 2nd Law,0.313,0.765,7,-5.619,1,0.0304,0.115,0.0422,0.147,0.0822,150.139,308813,3
+55,Liquid State,The 2nd Law,0.508,0.905,2,-4.362,1,0.0434,0.000255,0.0193,0.113,0.431,76.012,182947,4
+56,The 2nd Law: Unsustainable,The 2nd Law,0.221,0.884,9,-7.445,0,0.246,0.0231,0.224,0.0804,0.0638,86.735,228067,3
+57,The 2nd Law: Isolated System,The 2nd Law,0.471,0.509,0,-10.9,0,0.0367,0.678,0.936,0.175,0.0595,131.996,299987,4
+58,Uprising,The Resistance,0.602,0.905,2,-4.046,1,0.0775,0.000202,0.064,0.117,0.411,128.019,304840,4
+59,Resistance,The Resistance,0.467,0.774,9,-6.569,0,0.0485,0.0616,0.289,0.108,0.0916,135.006,346693,4
+60,Undisclosed Desires,The Resistance,0.683,0.585,8,-6.76,1,0.0323,0.00819,0.0162,0.0797,0.641,115.997,235000,4
+61,United States of Eurasia (+Collateral Damage),The Resistance,0.198,0.554,3,-7.985,1,0.0441,0.238,0.108,0.123,0.0633,80.66,347813,4
+62,Guiding Light,The Resistance,0.372,0.85,0,-4.489,1,0.0528,0.00856,0.00218,0.0945,0.347,148.03,253453,4
+63,Unnatural Selection,The Resistance,0.327,0.918,7,-5.067,1,0.0623,0.000337,0.246,0.0679,0.107,161.088,414960,4
+64,MK Ultra,The Resistance,0.39,0.861,9,-5.237,0,0.041,0.000103,0.00954,0.234,0.35,155.063,246093,4
+65,I Belong to You (+Mon Coeur S'Ouvre a Ta Voix),The Resistance,0.481,0.603,2,-6.59,1,0.028,0.166,0.0321,0.109,0.213,105.974,338813,4
+66,Exogenesis: Symphony Pt. 1 (Overture),The Resistance,0.262,0.474,5,-9.079,1,0.0359,0.00689,0.84,0.169,0.047,120.326,258440,3
+67,Exogenesis: Symphony Pt. 2 (Cross-pollination),The Resistance,0.189,0.386,0,-8.762,0,0.043,0.161,0.86,0.144,0.0382,155.006,236160,4
+68,Exogenesis: Symphony Pt. 3 (Redemption),The Resistance,0.0848,0.212,7,-11.406,1,0.0369,0.251,0.646,0.0796,0.0572,177.559,277027,4
+69,Intro - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.133,0.483,9,-17.674,0,0.0524,0.808,0.919,0.938,0.178,99.655,104640,4
+70,Knights of Cydonia - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.285,0.987,4,-4.324,1,0.122,0.000106,0.188,0.368,0.0754,138.212,397786,4
+71,Hysteria - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.195,0.963,0,-5.037,1,0.138,1.46e-05,0.04,0.173,0.125,186.177,259066,4
+72,Supermassive Black Hole - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.533,0.934,7,-6.797,1,0.0502,0.0165,0.208,0.834,0.519,120.033,241093,4
+73,Map of the Problematique - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.477,0.986,8,-5.258,1,0.102,0.000219,0.182,0.278,0.267,125.041,322680,4
+74,Butterflies and Hurricanes - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.211,0.916,9,-5.652,1,0.101,0.00321,0.407,0.699,0.0391,114.91,356880,4
+75,Invincible - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.187,0.727,0,-7.586,1,0.0399,0.00255,0.0824,0.128,0.13,90.827,375920,4
+76,Starlight - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.478,0.919,10,-6.001,0,0.0678,0.000159,0.0183,0.874,0.309,121.602,253866,4
+77,Time Is Running Out - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.474,0.944,9,-5.458,0,0.0585,0.000174,0.0424,0.916,0.31,118.045,263680,4
+78,New Born - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.179,0.989,0,-5.074,1,0.248,0.00027,0.652,0.712,0.0897,144.716,496400,4
+79,Unintended - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.158,0.462,4,-10.894,0,0.0319,0.788,0.0815,0.807,0.0376,75.381,276160,4
+80,Micro Cuts - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.121,0.933,2,-5.784,0,0.0613,0.000176,0.777,0.112,0.304,167.798,227266,4
+81,Stockholm Syndrome - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.173,0.977,2,-5.262,1,0.131,7.61e-06,0.256,0.81,0.0395,127.967,457920,4
+82,Take a Bow - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.238,0.781,1,-7.38,1,0.111,0.00288,0.0958,0.953,0.105,130.538,282386,3
+83,City of Delusion - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),0.22,0.9,2,-7.208,0,0.101,0.00141,0.0229,0.713,0.127,120.042,308467,4
+84,Take a Bow,Black Holes and Revelations,0.242,0.708,8,-5.641,1,0.0525,0.162,0.000593,0.707,0.176,130.21,275493,3
+85,Starlight,Black Holes and Revelations,0.55,0.874,4,-4.046,1,0.0321,0.000436,1.02e-05,0.206,0.318,121.61,240213,4
+86,Supermassive Black Hole,Black Holes and Revelations,0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0,212440,4
+87,Map of the Problematique,Black Holes and Revelations,0.493,0.959,8,-3.613,1,0.0414,0.000386,0.118,0.254,0.703,125.04,258066,4
+88,Soldier's Poem,Black Holes and Revelations,0.534,0.408,2,-12.67,1,0.0317,0.875,0.00186,0.364,0.475,104.212,124706,3
+89,Invincible,Black Holes and Revelations,0.226,0.808,0,-5.608,1,0.0433,0.0159,0.0287,0.184,0.19,92.591,301386,4
+90,Assassin,Black Holes and Revelations,0.351,0.961,7,-3.942,0,0.145,0.00133,0.00335,0.108,0.416,124.715,211133,4
+91,Exo-Politics,Black Holes and Revelations,0.599,0.926,0,-4.064,1,0.0676,0.000454,2.68e-05,0.0866,0.606,123.02,233266,4
+92,City of Delusion,Black Holes and Revelations,0.285,0.915,2,-5.158,0,0.0741,0.00268,0.0279,0.137,0.309,119.817,288266,4
+93,Hoodoo,Black Holes and Revelations,0.254,0.216,0,-9.713,0,0.0339,0.543,0.325,0.111,0.12,136.851,223426,4
+94,Knights of Cydonia,Black Holes and Revelations,0.366,0.963,11,-5.301,0,0.142,0.000273,0.0122,0.115,0.211,137.114,366213,4
+95,Glorious,Black Holes and Revelations,0.4,0.979,11,-5.052,1,0.0968,0.0151,0.0164,0.342,0.0791,100.937,281027,4
+96,Intro,Absolution,0.828,0.0704,0,-29.015,1,0.103,0.919,0.234,0.378,0.0,78.317,22133,4
+97,Apocalypse Please,Absolution,0.149,0.885,6,-5.437,1,0.0429,0.101,0.00922,0.247,0.181,160.03,252867,4
+98,Time is Running Out,Absolution,0.585,0.842,9,-5.883,0,0.0556,0.00242,0.00686,0.0866,0.428,118.211,237040,4
+99,Sing for Absolution,Absolution,0.436,0.678,5,-7.211,1,0.0301,0.457,0.0384,0.0873,0.194,170.287,294867,4
+100,Stockholm Syndrome,Absolution,0.434,0.977,2,-4.845,1,0.0786,0.00187,0.166,0.347,0.0939,128.223,297000,4
+101,Falling Away with You,Absolution,0.296,0.683,0,-8.932,1,0.0361,0.338,0.195,0.0917,0.272,95.483,280627,4
+102,Interlude,Absolution,0.158,0.202,9,-19.105,0,0.0446,0.206,0.793,0.132,0.257,73.846,37667,4
+103,Hysteria,Absolution,0.412,0.92,9,-4.852,0,0.0575,0.000456,0.0026,0.11,0.455,93.162,227440,4
+104,Blackout,Absolution,0.172,0.28,10,-11.877,1,0.0394,0.43,0.408,0.131,0.0617,116.94,262200,3
+105,Butterflies and Hurricanes,Absolution,0.42,0.691,9,-8.56,1,0.0501,0.31,0.0427,0.109,0.0383,115.326,301733,4
+106,The Small Print,Absolution,0.249,0.965,2,-3.783,1,0.076,0.000145,8.41e-05,0.303,0.514,161.561,209000,4
+107,Endlessly,Absolution,0.656,0.471,9,-9.668,0,0.0351,0.814,0.256,0.0515,0.631,110.175,228933,4
+108,Thoughts of a Dying Atheist,Absolution,0.26,0.946,3,-5.387,1,0.061,0.000837,0.0882,0.27,0.425,178.508,187293,4
+109,Ruled by Secrecy,Absolution,0.395,0.232,5,-12.982,0,0.0319,0.801,0.836,0.131,0.0388,148.289,292293,3
+110,Fury,Absolution,0.0914,0.69,0,-6.681,1,0.0417,0.00101,0.00902,0.167,0.146,163.808,302040,4
+111,Forced In,Hullabaloo Soundtrack (Eastwest Release),0.349,0.836,7,-8.759,1,0.0649,0.00747,0.133,0.0503,0.0921,147.907,257760,4
+112,Shrinking Universe,Hullabaloo Soundtrack (Eastwest Release),0.221,0.809,9,-5.281,0,0.0538,0.00739,3.42e-05,0.304,0.236,122.482,187066,4
+113,Recess,Hullabaloo Soundtrack (Eastwest Release),0.455,0.602,9,-6.598,1,0.0348,0.0175,0.0213,0.269,0.44,140.01,215173,4
+114,Yes Please,Hullabaloo Soundtrack (Eastwest Release),0.0839,0.886,0,-5.124,1,0.0574,1.85e-05,0.885,0.108,0.392,170.11,185933,4
+115,Map of Your Head,Hullabaloo Soundtrack (Eastwest Release),0.586,0.571,9,-10.111,1,0.0532,0.256,0.000211,0.0283,0.344,150.511,263600,4
+116,Nature_1,Hullabaloo Soundtrack (Eastwest Release),0.52,0.803,2,-7.329,1,0.0437,0.00955,7.08e-05,0.297,0.498,140.052,219360,4
+117,Shine - Acoustic,Hullabaloo Soundtrack (Eastwest Release),0.145,0.542,0,-11.2,1,0.0421,0.122,0.042,0.235,0.0562,79.059,311973,4
+118,Ashamed,Hullabaloo Soundtrack (Eastwest Release),0.255,0.928,1,-5.018,0,0.144,0.000795,0.698,0.366,0.252,120.837,227533,4
+119,The Gallery,Hullabaloo Soundtrack (Eastwest Release),0.587,0.837,5,-8.769,1,0.0381,0.426,0.968,0.279,0.548,92.998,210266,4
+120,Hyper Chondriac Music,Hullabaloo Soundtrack (Eastwest Release),0.312,0.48,2,-8.744,0,0.0363,0.0142,0.424,0.188,0.122,135.84,329866,4
+121,Dead Star - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.156,0.918,6,-7.599,0,0.141,6.99e-05,0.388,0.829,0.0782,82.917,363426,4
+122,Micro Cuts - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.278,0.882,2,-7.719,1,0.0626,6.34e-05,0.911,0.949,0.338,87.336,210773,4
+123,Citizen Erased - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.21,0.872,9,-6.827,0,0.0384,0.000135,0.604,0.95,0.12,95.03,441266,4
+124,Showbiz - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.207,0.943,11,-6.451,0,0.11,3.37e-05,0.407,0.972,0.0907,132.506,304293,4
+125,Megalomania - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.314,0.475,4,-9.897,1,0.0317,0.00471,0.799,0.819,0.145,73.827,276666,4
+126,Darkshines - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.319,0.884,2,-6.969,1,0.0592,3.01e-05,0.61,0.958,0.42,116.075,277306,4
+127,Screenager - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.302,0.513,7,-11.782,1,0.0311,0.217,0.206,0.956,0.0785,81.449,262133,4
+128,Space Dementia - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.217,0.873,0,-6.261,1,0.0522,6.82e-05,0.48,0.975,0.168,96.393,332800,4
+129,In Your World - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.335,0.981,9,-5.415,0,0.119,3.24e-05,0.946,0.927,0.119,126.526,191066,4
+130,Muscle Museum - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.352,0.719,6,-6.527,0,0.0364,9.82e-05,0.211,0.412,0.315,83.669,268933,4
+131,Agitated - Live from Le Zenith,Hullabaloo Soundtrack (Eastwest Release),0.188,0.974,2,-4.996,1,0.0984,1.65e-05,0.859,0.784,0.066,85.637,251200,4
+132,New Born,Origin of Symmetry,0.238,0.932,4,-5.809,1,0.0912,0.00326,0.298,0.114,0.186,150.899,363267,4
+133,Bliss,Origin of Symmetry,0.447,0.8,0,-9.482,0,0.047,0.000258,0.00206,0.113,0.251,127.956,251147,4
+134,Space Dementia,Origin of Symmetry,0.166,0.723,11,-6.845,1,0.0472,0.0153,0.00265,0.214,0.0756,170.957,380760,4
+135,Hyper Music,Origin of Symmetry,0.27,0.91,7,-4.544,1,0.0851,1.23e-05,0.000187,0.133,0.397,121.386,201507,4
+136,Plug in Baby,Origin of Symmetry,0.408,0.965,2,-4.232,1,0.05,6.94e-06,0.000402,0.11,0.349,136.018,218000,4
+137,Citizen Erased,Origin of Symmetry,0.12,0.672,0,-7.873,1,0.0406,0.00912,0.0117,0.311,0.087,84.523,441093,4
+138,Micro Cuts,Origin of Symmetry,0.307,0.805,2,-6.41,0,0.0369,0.000214,0.758,0.0717,0.18,160.33,218640,4
+139,Feeling Good,Origin of Symmetry,0.345,0.418,7,-7.787,0,0.0316,0.299,1.75e-05,0.103,0.267,109.044,198800,3
+140,Screenager,Origin of Symmetry,0.375,0.403,2,-12.776,0,0.0286,0.745,0.546,0.181,0.207,80.661,260000,4
+141,Darkshines,Origin of Symmetry,0.518,0.758,2,-5.847,1,0.0348,0.00019,0.713,0.0834,0.502,109.054,286693,4
+142,Megalomania,Origin of Symmetry,0.189,0.304,4,-11.897,0,0.032,0.0326,0.824,0.315,0.0899,145.76,279907,4
+143,Futurism,Origin of Symmetry,0.331,0.972,7,-4.603,1,0.0889,3.99e-05,0.00379,0.0852,0.174,158.089,206750,4
+144,Sunburn,Showbiz,0.474,0.905,4,-6.137,0,0.0842,0.122,0.00154,0.166,0.322,93.02,233733,4
+145,Muscle Museum,Showbiz,0.447,0.534,6,-7.502,1,0.0345,0.00779,0.000125,0.0933,0.373,79.99,262973,4
+146,Fillip,Showbiz,0.278,0.75,7,-6.545,1,0.0639,0.0541,4.59e-05,0.334,0.178,127.109,241400,4
+147,Falling Down,Showbiz,0.321,0.215,9,-13.042,1,0.0334,0.861,0.00164,0.129,0.0451,117.797,273933,3
+148,Cave,Showbiz,0.417,0.809,2,-5.669,1,0.0502,0.0259,8.93e-06,0.23,0.121,121.071,286933,4
+149,Showbiz,Showbiz,0.236,0.635,2,-7.717,1,0.0565,0.0123,0.216,0.109,0.166,124.785,317000,4
+150,Unintended,Showbiz,0.487,0.279,6,-11.586,0,0.0265,0.647,0.00185,0.11,0.162,139.362,237027,4
+151,Uno,Showbiz,0.394,0.654,0,-7.879,1,0.052,0.0109,4.6e-06,0.356,0.526,114.694,218600,4
+152,Sober,Showbiz,0.356,0.921,8,-4.803,0,0.0609,0.000171,0.00155,0.313,0.216,119.777,244240,4
+153,Escape,Showbiz,0.143,0.488,2,-6.902,1,0.0353,0.0766,0.0,0.123,0.0921,77.497,211467,4
+154,Overdue,Showbiz,0.348,0.776,9,-6.068,0,0.0503,0.0227,4.84e-05,0.0833,0.496,105.657,146267,4
+155,Hate This and I'll Love You,Showbiz,0.235,0.442,2,-8.752,1,0.0322,0.0572,0.122,0.0611,0.0551,156.229,309560,3
+156,Spiral Static,Showbiz,0.28,0.782,4,-7.063,0,0.0756,0.0672,0.25,0.134,0.235,91.278,283864,3
